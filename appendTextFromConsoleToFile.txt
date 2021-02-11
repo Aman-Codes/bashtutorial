@@ -1,0 +1,2 @@
+This is my first line of text
+ This line was typed when code was executed 2nd time
